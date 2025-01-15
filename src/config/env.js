@@ -21,7 +21,6 @@ function validateEnv() {
   });
 }
 
-// Call the validation function at the start
 validateEnv();
 
 module.exports = {
